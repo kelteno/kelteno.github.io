@@ -3,12 +3,12 @@ title: November 3
 author: cotes
 layout: page
 date: 2022-10-05 11:23:01 +0800
-categories: [Demo]
+categories: [Swift Courses]
 tags: [typography,else]
 math: true
 mermaid: true
 image:
-  path: https://i1.sndcdn.com/avatars-iLoyGQMqFqaTJ4Wn-aaBA6g-t500x500.jpg
+  path: "/assets/dc.png"
   width: 800
   height: 500
   alt: Responsive rendering of Chirpy theme on multiple devices.
