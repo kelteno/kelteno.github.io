@@ -1,22 +1,26 @@
 ---
-title: Post Test Message
-author: cotes
+title: Swift Basics
 date: 2022-10-03 11:23:01 +0800
-layout: page
-categories: [Swift Courses]
+categories: [Swift]
 tags: [typography, else]
 math: true
 mermaid: true
-pin: true
 image:
-  path: "/assets/dc.png"
+  path: "https://i.stack.imgur.com/8iCk8.jpg"
   width: 800
-  height: 800
+  height: 400
+  align: left
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
+This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
 
-<iframe width="100%" height = "400" 
+
+## Title
+
+Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices sodales. Aliquam ante lorem, ornare a feugiat ac, finibus nec mauris. Vivamus ut tristique nisi. Sed vel leo vulputate, efficitur risus non, posuere mi. Nullam tincidunt bibendum rutrum. Proin commodo ornare sapien. Vivamus interdum diam sed sapien blandit, sit amet aliquam risus mattis. Nullam arcu turpis, mollis quis laoreet at, placerat id nibh. Suspendisse venenatis eros eros.
+
+ <iframe width="100%" height = "400" 
     src="https://www.youtube.com/embed/hMcjg1qNxu0" 
     frameborder="0" 
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
@@ -26,8 +30,6 @@ image:
 ## Paragraph
 
 Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices sodales. Aliquam ante lorem, ornare a feugiat ac, finibus nec mauris. Vivamus ut tristique nisi. Sed vel leo vulputate, efficitur risus non, posuere mi. Nullam tincidunt bibendum rutrum. Proin commodo ornare sapien. Vivamus interdum diam sed sapien blandit, sit amet aliquam risus mattis. Nullam arcu turpis, mollis quis laoreet at, placerat id nibh. Suspendisse venenatis eros eros.
-
-## Titles
 
 ![Desktop View](/assets/dc.png){: height="400" .w-75 .normal}
 
@@ -39,7 +41,6 @@ Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas int
 
 <h3 data-toc-skip>H3 - heading</h3>
 
-## <h4>H4 - heading</h4>
 
 <br>
 

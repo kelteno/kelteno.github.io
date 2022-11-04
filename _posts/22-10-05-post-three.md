@@ -1,9 +1,8 @@
 ---
-title: November 3
-author: cotes
+title: Swift Hello World
 layout: page
 date: 2022-10-05 11:23:01 +0800
-categories: [Swift Courses]
+categories: [Swift]
 tags: [typography,else]
 math: true
 mermaid: true
